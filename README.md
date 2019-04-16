@@ -1,4 +1,4 @@
-# qrood
+# Landing Page For Events
 
 ## Project setup
 ```
